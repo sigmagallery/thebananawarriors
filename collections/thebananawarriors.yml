@@ -30,12 +30,12 @@ nfts:
 - tokenId: d4590e68f7ede04578e195bba1f1e048d30083701187bf3ac5c4c5825a8399cb
   name: 'The Banana Warrior : THE DOCTOR'
   description: >-
-    #3 of 25 very limited collection, the holder gets a free nft whenever the
+    number 3 of 25 very limited collection, the holder gets a free nft whenever the
     artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeifgodytpqir2n56ywk65ar7gxxur3f3puvn5jafrstqjqbik6xlgu
 - tokenId: 0cb87cb57545f45ea17d413b865433e0a13381b9efce601032057818b8b04db4
-  name: 'The Banana Warrior : THE EAGLE '
+  name: 'The Banana Warrior : THE EAGLE'
   description: >-
     number 22 of 25 very limited collection, the holder gets a free nft whenever
     the artist drops a new collection forever.
@@ -58,14 +58,14 @@ nfts:
 - tokenId: e7e472ac49db6c485785cd904fd4696ac16bf4daba7389ae22195b86ca61ba8f
   name: 'The Banana Warrior : THE ERGONAUT'
   description: >-
-    #6 of 25 very limited collection, the holder gets a free nft whenever the
+    number 6 of 25 very limited collection, the holder gets a free nft whenever the
     artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeig6wtpacok2axkljhbnixvysi6gtwv2lheu2yssqmewlmkpvxqzf4
 - tokenId: 7d235504ffe8bf15982a3de967c25adec4455085bda2d6e2bf08872f42cb5a50
   name: 'The Banana Warrior : THE FIREFIGHTER'
   description: >-
-    #5 of 25 very limited collection, the holder gets a free nft whenever the
+    number 5 of 25 very limited collection, the holder gets a free nft whenever the
     artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeifrl5ycr3jah25ifycqldgxxpljl24h5ly2zx7vtneccnjv5ghwum
@@ -79,7 +79,7 @@ nfts:
 - tokenId: 0f24b0e50f61cb56a1c6348fe66e8b4d1cf3b68302f94acc93772e4f8c96f825
   name: 'The Banana Warrior : THE KING'
   description: >-
-    #1 of 25 very limited collection, the holder gets a free nft whenever the
+    number 1 of 25 very limited collection, the holder gets a free nft whenever the
     artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiatcuthgdo6nagygp2nhagzs6ttevyreg3dioy6u3supsswxbdble
@@ -107,8 +107,7 @@ nfts:
 - tokenId: 7e9ab2170bf13a659893e84b01c96db13c58257f1f80452032d003b4b74043ee
   name: 'The Banana Warrior : THE OFFICER'
   description: >-
-    #4 of 25 very limited collection, the holder gets a free nft whenever the
-    artist drops a new collection forever.
+    number 4 of 25 very limited collection, the holder gets a free nft whenever the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeih3i4vyoyko64lgnl7yp523s74ymzpqikmuc6whqtp643pylj4tp4
 - tokenId: 27985fbb4a0cd8bea7f187f3724418debfdd6c2340897095eb929c4726a9cf16
@@ -125,13 +124,6 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibnnxktcruclnxybzztivylxjl2swzvyzn5lwimedi4qrp3hxix4q
-- tokenId: 243b4d0873f38b0f869ba83041a693ad471b15794ddf81757e9eeb443ecf8fbf
-  name: 'The Banana Warrior : THE SKELETON'
-  description: >-
-    number 24 of 25 very limited collection, the holder gets a free nft whenever
-    the artist drops a new collection forever.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeibn4yx75qeatvhaxj3bhymupkumgzzzju2nomtjmsqmnljpxchhim
 - tokenId: 9c33b248b6318d035d5fdc1add284873b2a0aec71a8e0251b8ba61cdb7e16f2e
   name: 'The Banana Warrior : THE SKELETON'
   description: >-
