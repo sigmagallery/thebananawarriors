@@ -1,15 +1,9 @@
-title: 
-description: 
+title: The Banana Warriors
+description: A very limited nft collection of only 25 banana warriors nfts, holders will recieve a free nft whenever the artist drops a new collection.
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9eyjiN9uxPZYg2RUrN1GzFLDWgfLy3ySx2ZZsTJiJ9YwFKDy28e
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/BananaWarrior__
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
-  - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw
