@@ -2,3 +2,4 @@ collections:
 - label: The Banana Warriors
   data: thebananawarriors.yml
   image: https://gateway.ipfs.io/ipfs/bafybeiatcuthgdo6nagygp2nhagzs6ttevyreg3dioy6u3supsswxbdble
+  format: video
