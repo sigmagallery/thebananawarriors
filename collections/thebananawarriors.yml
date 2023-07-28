@@ -70,6 +70,7 @@ nfts:
     artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeig6wtpacok2axkljhbnixvysi6gtwv2lheu2yssqmewlmkpvxqzf4
+  format: gif
 - tokenId: 7d235504ffe8bf15982a3de967c25adec4455085bda2d6e2bf08872f42cb5a50
   name: 'The Banana Warrior : THE FIREFIGHTER'
   description: >-
@@ -93,6 +94,7 @@ nfts:
     artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiatcuthgdo6nagygp2nhagzs6ttevyreg3dioy6u3supsswxbdble
+  format: gif
 - tokenId: 68938889c0cd567296857e96eb94cd10013ae8ce62240ef821e015f241cdb233
   name: 'The Banana Warrior : THE MINER'
   description: >-
