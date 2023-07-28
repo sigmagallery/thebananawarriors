@@ -6,6 +6,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeif3yeqqwwhvnpf6lljt5dgnpn6fx7mcfsaexr6ojyi3vef3wupzgy
+  format: gif
 - tokenId: 99499b4e10b10b720dd1e9fd7f9034f71807f8d2f73b797975ac68870d83dab9
   name: 'The Banana Warrior : THE BLITZ'
   description: >-
@@ -13,6 +14,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiahlbtit2lyw3iwjwrapnmi33m6few7vhhgzwrs63pqo7ezkfxnhe
+  format: gif
 - tokenId: e9087e1dd32063f0b69f3eff6a854f7f7ce202f01c2b8b44a834996300384cb5
   name: 'The Banana Warrior : THE CHEF'
   description: >-
@@ -20,6 +22,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibpmlkzm4uoqjvhjs7a2sr7sinc3bdxeswl6jelvt5fgklhwk6khm
+  format: gif
 - tokenId: a90b300bef9cf432257f77f0b87cd2ff78af7267a5fedb022bd5f2dfcb8bb8dd
   name: 'The Banana Warrior : THE CYBORG'
   description: >-
@@ -27,6 +30,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibpitrxyxryhftcasgeyrqg2fobwvpbmantcpqh4ys5pigurggfiu
+  format: gif
 - tokenId: d4590e68f7ede04578e195bba1f1e048d30083701187bf3ac5c4c5825a8399cb
   name: 'The Banana Warrior : THE DOCTOR'
   description: >-
@@ -34,6 +38,7 @@ nfts:
     artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeifgodytpqir2n56ywk65ar7gxxur3f3puvn5jafrstqjqbik6xlgu
+  format: gif
 - tokenId: 0cb87cb57545f45ea17d413b865433e0a13381b9efce601032057818b8b04db4
   name: 'The Banana Warrior : THE EAGLE'
   description: >-
@@ -41,6 +46,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeicfi2sh6madicvbc5vzmmudigeow3p7m7zz6hbv6npmonexocm2i4
+  format: gif
 - tokenId: 224242eb6aa4f0d6e8a23cec7e726a25c4f8469c7cce2062827bced2175b124a
   name: 'The Banana Warrior : THE EGYPTIAN WARRIOR'
   description: >-
@@ -48,6 +54,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeicjfnj5gaska7opbq25wnhwkxfrl7hoz6dpiqaex3vkdotiyxdcfu
+  format: gif
 - tokenId: c198eaf8762b1dcadf3af520083e3ff3ccce01caeb0b91a99b5fa18ea844decd
   name: 'The Banana Warrior : THE ERGOCHAMPION'
   description: >-
@@ -55,6 +62,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeig22o2545ho2i3lxwhsdjtvm7bhm524gsdk5ier7sk7oprbmtyjcy
+  format: gif
 - tokenId: e7e472ac49db6c485785cd904fd4696ac16bf4daba7389ae22195b86ca61ba8f
   name: 'The Banana Warrior : THE ERGONAUT'
   description: >-
@@ -69,6 +77,7 @@ nfts:
     artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeifrl5ycr3jah25ifycqldgxxpljl24h5ly2zx7vtneccnjv5ghwum
+  format: gif
 - tokenId: 774637580b2df635e59d6d82bef7de722af5c235bf3a840c08609f9d642c6b42
   name: 'The Banana Warrior : THE Graduate'
   description: >-
@@ -76,6 +85,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeick7hbqpreok2ffdo6dfkgpgqfhvyw45xsnnyef36xzfsuwe6fjni
+  format: gif
 - tokenId: 0f24b0e50f61cb56a1c6348fe66e8b4d1cf3b68302f94acc93772e4f8c96f825
   name: 'The Banana Warrior : THE KING'
   description: >-
@@ -90,6 +100,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeic72el4tpmh7ousu5tmsk4wotevls2zu3o6vpafefbx3as3aqhhqa
+  format: gif
 - tokenId: 6eecaecec2aedb681b9f80be99bd981c4d83f8e5a527bd8f3096cf569deb6d1c
   name: 'The Banana Warrior : THE Musician'
   description: >-
@@ -97,6 +108,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeicfwaiecibzd53hvz6kli3mqlvi6hxubud74ejyipdbtiqt7qw3sy
+  format: gif
 - tokenId: 3793d5047c461077dff68c8e1adde44a194e0c88e58002aff64e3d9d3f620754
   name: 'The Banana Warrior : THE NINJA'
   description: >-
@@ -104,12 +116,14 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibwnckfuzjtr7mckkgqv2mngrmbvtgqhdppy5f45antrozs7icabq
+  format: gif
 - tokenId: 7e9ab2170bf13a659893e84b01c96db13c58257f1f80452032d003b4b74043ee
   name: 'The Banana Warrior : THE OFFICER'
   description: >-
     number 4 of 25 very limited collection, the holder gets a free nft whenever the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeih3i4vyoyko64lgnl7yp523s74ymzpqikmuc6whqtp643pylj4tp4
+  format: gif
 - tokenId: 27985fbb4a0cd8bea7f187f3724418debfdd6c2340897095eb929c4726a9cf16
   name: 'The Banana Warrior : THE Pirate'
   description: >-
@@ -117,6 +131,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeifz5rbyrgws2x7l7jijncsktnivkpvhaiz6z7wuc5tafievd7fswi
+  format: gif
 - tokenId: b4a1300ba75d7cc627ce27e4a920eea7ae0a6b80b372c082e1a161d6d3f5d2f4
   name: 'The Banana Warrior : THE SAMURAI'
   description: >-
@@ -124,6 +139,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibnnxktcruclnxybzztivylxjl2swzvyzn5lwimedi4qrp3hxix4q
+  format: gif
 - tokenId: 9c33b248b6318d035d5fdc1add284873b2a0aec71a8e0251b8ba61cdb7e16f2e
   name: 'The Banana Warrior : THE SKELETON'
   description: >-
@@ -131,6 +147,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibn4yx75qeatvhaxj3bhymupkumgzzzju2nomtjmsqmnljpxchhim
+  format: gif
 - tokenId: a10b8538789f58967186a0977b0a4e528eae76de2cd7abcbd4d9c619d1d71a6a
   name: 'The Banana Warrior : THE TIGER'
   description: >-
@@ -138,6 +155,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeib7htrqblxo6ol765kmpqhnomjo7v4ncj4ghllxlydy6ocuyvxagu
+  format: gif
 - tokenId: e406da8d220bbc219f804cadc5965b90ff0b71797ffba784f0f91b100f7a3322
   name: 'The Banana Warrior : THE UNDEAD'
   description: >-
@@ -145,6 +163,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeidmead2nbgnapfmtrnkpvbdcvc2l4wnmnu5ptblrw2em3f74ed5nm
+  format: gif
 - tokenId: 090e5fa9d33e88eb04e8fe98e134a1d6132f577da8cd8007475df8b8e9f8e323
   name: 'The Banana Warrior : THE VIKING'
   description: >-
@@ -152,6 +171,7 @@ nfts:
     artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeifcr3y6bisvlof3a2iowz3rio4nlrn7xqqbnca72disligzxqkuvu
+  format: gif
 - tokenId: c3e2ac5e3cb41c1e257cca9a016d4a9e9f47308da1a0483c9e1d51499e247765
   name: 'The Banana Warrior : THE WINTER WARRIOR'
   description: >-
@@ -159,6 +179,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiemmqly76oogcciq422s35gat6yu5266ky4ch7y6342ul5bls44ou
+  format: gif
 - tokenId: 30f6b90209824b6d0f7405b099b3fde9f86d49c2ba327b576604b5d58e8d33e2
   name: 'The Banana Warrior : THE WIZARD'
   description: >-
@@ -166,6 +187,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeihselan654idasjmhfk5tiuqbzuzorbesryfjda42yfvnox4gghva
+  format: gif
 - tokenId: 92f5b803d32c290d3e91c5733d2797fde6d975c6231a04b27f38c11309fc4b7d
   name: 'The Banana Warrior : THE YANG'
   description: >-
@@ -173,6 +195,7 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiapokpxelhqqedh2tohe2ekjty3onfax6dlf34a73sxxlablbrssy
+  format: gif
 - tokenId: 1b869e293a062db4fcc432765447e0b2df40cbfb5754997c8e4a9f2d04aa1a68
   name: 'The Banana Warrior : THE YIN'
   description: >-
@@ -180,3 +203,4 @@ nfts:
     the artist drops a new collection forever.
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibdkfr7c3cjd7bejrtdzx3qgsumfevwkyhfkgjcnwjwleydggawwy
+  format: gif
